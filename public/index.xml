@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Bygrave</title>
+    <link>https://paulbygrave.com/</link>
+    <description>Recent content on Paul Bygrave</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Feb 2021 11:24:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://paulbygrave.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog Post</title>
+      <link>https://paulbygrave.com/posts/feb_15022021/</link>
+      <pubDate>Mon, 15 Feb 2021 11:24:09 +0000</pubDate>
+      
+      <guid>https://paulbygrave.com/posts/feb_15022021/</guid>
+      <description>This is the very first blog post on my new website. It&amp;rsquo;s pretty much a test post, don&amp;rsquo;t expect anything widly interesting or insightful here. I just needed to check that it would work properly. Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://paulbygrave.com/about/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://paulbygrave.com/about/</guid>
+      <description>Based in Wickham Bishops in Essex, I am currently a Senior consultant working for Contino Solutions. I&amp;rsquo;ve been working in IT since 2013 when I transferred from working on my Fintech employer&amp;rsquo;s Customer Support helpdesk over to Operations because &amp;ldquo;Linux seems interesting&amp;rdquo;. I moved into my first proper DevOps Engineering role in October 2018 working with Terraform, AWS and Ansible, and then joined Contino as a consultant in September 2019. I now help Enterprise customers with their digital transformation projects, implementing scaleable, resilient and (where possible) automated solutions to address customer needs and enable them to meet their business goals.</description>
+    </item>
+    
+  </channel>
+</rss>

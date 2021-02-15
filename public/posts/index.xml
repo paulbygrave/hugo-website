@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Paul Bygrave</title>
+    <link>https://paulbygrave.com/posts/</link>
+    <description>Recent content in Posts on Paul Bygrave</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Feb 2021 11:24:09 +0000</lastBuildDate>
+    
+	<atom:link href="https://paulbygrave.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog Post</title>
+      <link>https://paulbygrave.com/posts/feb_15022021/</link>
+      <pubDate>Mon, 15 Feb 2021 11:24:09 +0000</pubDate>
+      
+      <guid>https://paulbygrave.com/posts/feb_15022021/</guid>
+      <description>This is the very first blog post on my new website. It&amp;rsquo;s pretty much a test post, don&amp;rsquo;t expect anything widly interesting or insightful here. I just needed to check that it would work properly. Thanks for reading!</description>
+    </item>
+    
+  </channel>
+</rss>
