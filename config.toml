@@ -48,7 +48,7 @@ disableLanguages        = []
 
   [params.intro]
     header                = "Paul Bygrave"
-    paragraph             = "DevOps Consultant for Contino Solutions (UK)."
+    paragraph             = "Senior Cloud Infrastructure Engineer @ Lucid LLC."
     rssIntro              = false
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -61,7 +61,7 @@ disableLanguages        = []
       alt                 = "Selfie pic goes here"
 
   [params.sidebar]
-    about              = "A personal website to server as a professional portfolio."
+    about              = "A cloud-focused DevOps engineer with consultancy experience and a love of all things techy."
     postAmount          = 5
 
   [params.footer]
@@ -128,7 +128,7 @@ disableLanguages        = []
   medium                = ""
   # Professional/Business Oriented Communities
   linkedin              = "paulbygrave"
-  linkedin_company      = "contino"
+  linkedin_company      = "lucidhq"
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
